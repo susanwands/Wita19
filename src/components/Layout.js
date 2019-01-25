@@ -73,8 +73,8 @@ export default ({ children, meta, title }) => {
               {...data.settingsYaml}
             />
 
-            <GithubCorner url="https://github.com/thriveweb/yellowcake" />
-
+           {/*  <GithubCorner url="https://github.com/thriveweb/yellowcake" />
+ */}
             <Nav subNav={subNav} />
 
             <Fragment>{children}</Fragment>

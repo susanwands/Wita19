@@ -5,7 +5,7 @@ import './InstagramFeed.css'
 
 export default class InstagramFeed extends Component {
   static defaultProps = {
-    instagramUrl: 'https://instagram.com/instagram',
+    instagramUrl: 'https://www.instagram.com/womenintechallies/',
     count: 7
   }
 
@@ -50,7 +50,7 @@ export default class InstagramFeed extends Component {
 
     if (!insaFeed) {
       typeof window !== 'undefined' &&
-        fetch(`https://instagram.thrivex.io/?ref=thrivegoldcoast`)
+        fetch(`https://www.instagram.com/womenintechallies/`)
           .then(res => res.json())
           .then(data => {
             insaFeed = data && data.items ? data.items : []
