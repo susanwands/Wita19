@@ -5,7 +5,7 @@ import './InstagramFeed.css'
 
 export default class InstagramFeed extends Component {
   static defaultProps = {
-    instagramUrl: 'https://www.instagram.com/womenintechallies/',
+    instagramUrl: 'https://www.instagram.com/womenintechallies',
     count: 7
   }
 
@@ -50,9 +50,10 @@ export default class InstagramFeed extends Component {
 
     if (!insaFeed) {
       typeof window !== 'undefined' &&
-        fetch(`https://www.instagram.com/womenintechallies/`)
+        fetch(`https://www.instagram.com/womenintechallies`)
           .then(res => res.json())
           .then(data => {
+            console.log(data);
             insaFeed = data && data.items ? data.items : []
             localStorage.setItem('insaFeed', JSON.stringify(insaFeed))
             this.setState({
