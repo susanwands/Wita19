@@ -1,8 +1,8 @@
 ---
 template: ComponentsPage
 slug: components
-title: Components Page
-featuredImage: 'https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/'
+title: About
+featuredImage: 'https://ucarecdn.com/a0e02bee-87c4-49ad-b4b5-655531d9423d/'
 subtitle: This is the components page subtitle.
 section1: >-
   ## This is a container component
@@ -50,3 +50,4 @@ meta:
   description: This is a meta description.
   title: Components Page
 ---
+
