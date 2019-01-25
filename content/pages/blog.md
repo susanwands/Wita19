@@ -1,10 +1,13 @@
 ---
 template: BlogIndex
 slug: blog
-title: Blog Page
-featuredImage: 'https://ucarecdn.com/b6254577-26bf-4b79-aa9b-f3793e2aebdc/'
-subtitle: This is the blog page subtitle.
+title: WITA Blog
+featuredImage: 'https://ucarecdn.com/03f843cc-4e56-41d3-b83c-213e2654b5db/'
+subtitle: 'News, events, resources and more...'
 meta:
-  description: This is a meta description.
-  title: Blog Page
+  description: >-
+    WITA blog with local stories, events, resources and more to advocate for
+    women and diversity in tech.
+  title: ''
 ---
+
