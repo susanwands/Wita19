@@ -2,13 +2,13 @@
 template: HomePage
 slug: ''
 title: Women In Tech Allies
-featuredImage: 'https://ucarecdn.com/e951120b-e7b4-4c5f-9367-56823af4bf7c/'
+featuredImage: 'https://ucarecdn.com/765bcf18-5dd0-4cb0-987f-89561c84c56b/'
 subtitle: Moving Tech Forward Together
 meta:
   description: >-
     We are an awesome group started in Raleigh-Durham, NC to advocate for
     diversity and inclusion in tech.
-  title: Welcome to Women In Tech Allies
+  title: ''
 ---
 Women in Tech Allies is a group to advocate for diversity in technology through networking, tech talks, mentor-ship, etc. We look for opportunities to support our current peers in tech, women attempting to transition into tech from other backgrounds, as well as helping our youth grow into future tech leaders. 
 
