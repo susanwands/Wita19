@@ -2,7 +2,8 @@
 template: HomePage
 slug: ''
 title: Women In Tech Allies
-featuredImage: 'https://ucarecdn.com/765bcf18-5dd0-4cb0-987f-89561c84c56b/'
+featuredImage: >-
+  https://ucarecdn.com/3442efc4-4f12-4d1c-8e28-e01db6fd8094/-/crop/640x495/0,0/-/preview/
 subtitle: Moving Tech Forward Together
 meta:
   description: >-
