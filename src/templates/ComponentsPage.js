@@ -22,11 +22,11 @@ export const ComponentsPageTemplate = ({
   gallery
 }) => (
   <main>
-    <PageHeader
+    {/* <PageHeader
       title={title}
       subtitle={subtitle}
       backgroundImage={featuredImage}
-    />
+    /> */}
     <section className="section">
       <div className="container">
         <Content source={section1} />
