@@ -1,6 +1,6 @@
 ---
 template: BlogIndex
-title: Member Highlight
+title: Members
 meta: {}
 ---
 
