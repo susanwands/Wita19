@@ -2,52 +2,77 @@
 template: ComponentsPage
 slug: partners
 title: Partners
-featuredImage: 
 subtitle: This is the components page subtitle.
 section1: >-
-  ## This is a container component
-
-  A sem vel nec sodales mi vivamus senectus sed potenti a parturient nascetur
-  tincidunt nisi pulvinar rhoncus a. Risus imperdiet taciti suspendisse facilisi
-  a per metus cubilia varius a nostra adipiscing amet ultrices quisque ac mi a.
+  # We have amazing Partners & Sponsors
 
 
-  [Dictumst a ultrices mi]() a dignissim ad fermentum eget a nam et a blandit
-  scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam
-  vel est ut proin dis auctor. Suscipit sceler isque orci magna interdum vel
-  bibendum duis netus a consectetur dui magnis ac aliquet sem posuere tincidunt
-  vestibulum.
-section2: |-
-  ## You can use videos, images and text.
+  How did we build an amazing community? We have great sponsors.  They provide
+  space for hosting, food and drinks for a festive atmosphere and hook us up
+  with talented presenters.  WITA would be nothing without their continuous and
+  unfailing support. 
 
-  <iframe width="560" height="315"
-  src="https://www.youtube.com/embed/Js00yn142ic" frameborder="0"
-  allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-  ## Also background videos, with poster image support.
-video: 'https://ucarecdn.com/e6979298-66d6-4245-b496-6e5a5d507135/'
-videoPoster: 'https://ucarecdn.com/69ba14a8-6481-4671-abb6-0e6f0d9c3e46/'
+  ![Insight Digital
+  Solutions](https://ucarecdn.com/30cfdfaa-3ab7-4c4b-b5f9-921e8cae4579/ "Insight
+  Digital Solutions")
+
+
+  [Insight Digital
+  Solutions](https://www.insight.com/en_US/solve/digital-innovation.html)
+
+
+  Insight (formerly Cardinal Solutions) is were WITA began.  So many of the
+  ideas and goals for Women In Tech Allies were started through conversations
+  and brain-storming with this awesome group of people. The RTP branch went on
+  to sponsor and host our very first meetings, lend talented speakers for events
+  and just generally be a fantastic resource for promoting positive change in
+  the tech community. 
+
+
+  Insight is a leader in providing smart, cutting-edge technology solutions for
+  global organizations of all sizes.  As an Award Winning Microsoft Partner,
+  they have the capabilities to create cutting edge solutions in any industry. 
+
+
+  <br/>
+
+
+  ![Robert Half
+  Technology](https://ucarecdn.com/a1f48aac-b65f-4c0f-b844-405a94d20b4d/ "Robert
+  Half Technology")
+
+
+  [Robert Half
+  Technology](https://www.roberthalf.com/work-with-us/our-services/technology)
+
+
+  Our friends at Robert Half Technology have been amazing at leveraging their
+  time and resources to make WITA happen. They promote events, connect us with
+  local businesses and know talented speakers. Most importantly, they personally
+  take the time to develop the careers and find opportunities for our members.  
+
+
+  If you are looking for talent or you are looking for a new position, we cannot
+  recommend these folks highly enough...
+
+  Lauren Roberti:
+
+  [LinkedIn](https://www.linkedin.com/in/lauren-roberti-409a5321/)
+
+
+  Morgan Boyles:
+
+  [LinkedIn] (https://www.linkedin.com/in/morgan-boyles-972288138/)
+section2: '##'
+video: 'https://ucarecdn.com/83990988-03fa-470e-be46-13fcaebc055f/'
+videoPoster: 'https://ucarecdn.com/27ecf21c-528d-4b89-81a3-c7f5defeb16c/'
 accordion:
-  - description: Taciti lorem tempor quam vestibulum dis habitasse
-    title: Taciti lorem
-  - description: Taciti lorem tempor quam vestibulum dis habitasse
-    title: Taciti lorem
-  - description: Taciti lorem tempor quam vestibulum dis habitasse
-    title: Taciti lorem
-  - description: Taciti lorem tempor quam vestibulum dis habitasse
-    title: Taciti lorem
+  - title: blah
 gallery:
-  - alt: yellow rope image
-    image: 'https://ucarecdn.com/277cdf82-24aa-4d80-8169-bb46f4cd319d/'
-    title: Yellow Rope
-  - alt: umbrellas
-    image: 'https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/'
-    title: a bunch of umbrellas
-  - alt: yellow ice cream
-    image: 'https://ucarecdn.com/83485d70-1552-4c97-b237-22330fb56a1e/'
-    title: Yellow Ice Cream
+  - image: 'https://ucarecdn.com/b69394a0-7593-49e3-a29d-84d189cf29f8/'
 meta:
-  description: This is a meta description.
-  title: Components Page
+  description: A big thank you to all our Women In Tech Allies Sponsors
+  title: Partners
 ---
 
