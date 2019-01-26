@@ -14,7 +14,7 @@ section1: >-
 
 
   ![Insight Digital
-  Solutions](https://ucarecdn.com/30cfdfaa-3ab7-4c4b-b5f9-921e8cae4579/ "Insight
+  Solutions](https://ucarecdn.com/b16e241e-8d20-49c3-836e-684146a5bf65/ "Insight
   Digital Solutions")
 
 
@@ -35,11 +35,10 @@ section1: >-
   they have the capabilities to create cutting edge solutions in any industry. 
 
 
-  <br/>
 
 
   ![Robert Half
-  Technology](https://ucarecdn.com/a1f48aac-b65f-4c0f-b844-405a94d20b4d/ "Robert
+  Technology](https://ucarecdn.com/c1e4ffc8-dd7a-47c0-84cf-83e5dd5b0f40/ "Robert
   Half Technology")
 
 
@@ -63,7 +62,7 @@ section1: >-
 
   Morgan Boyles:
 
-  [LinkedIn] (https://www.linkedin.com/in/morgan-boyles-972288138/)
+  [LinkedIn](https://www.linkedin.com/in/morgan-boyles-972288138/)
 section2: '##'
 video: 'https://ucarecdn.com/83990988-03fa-470e-be46-13fcaebc055f/'
 videoPoster: 'https://ucarecdn.com/27ecf21c-528d-4b89-81a3-c7f5defeb16c/'
