@@ -1,6 +1,6 @@
 ---
 template: BlogIndex
-title: Partner Highlight
+title: Partners
 meta: {}
 ---
 
